@@ -1,2 +1,2 @@
 # glitch
-creating a glitch button
+creating a glitch hover effect button
